@@ -1,5 +1,7 @@
 # 09
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
+
 A Discord staff bot and private control room, built for **[Midnight Community](https://discord.gg/midnightt)**.
 
 **Created by 082_0** · [GitHub](https://github.com/082-0) · Discord: `082_0`
