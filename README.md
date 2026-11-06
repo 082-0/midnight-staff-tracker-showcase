@@ -15,13 +15,13 @@ Night Bloom is a Discord staff bot with a private control room. It tracks your t
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
-## Control room <sub>管理室</sub>
+## 桜 · Control room
 
 ![Staff control room](dashboard.png)
 
 Track the team, award points, review saved activity and configure each server from one dashboard.
 
-## Features <sub>機能</sub>
+## 桜 · Features
 
 - Ten-place Discord leaderboard with staff profiles and a personal rank button.
 - Automatic message and voice tracking, including members who appear offline. Voice time adds up across sessions, with a configurable minimum of 2–5 human participants.
@@ -34,7 +34,7 @@ Track the team, award points, review saved activity and configure each server fr
 - Leaderboard updates every two minutes by default.
 - Optional 30-day remembered sign-in with secure session cookies.
 
-## Bot health <sub>状態</sub>
+## 桜 · Bot health
 
 Each server has a **Bot health** page:
 
@@ -46,19 +46,19 @@ Each server has a **Bot health** page:
 
 A delayed sync is shown separately from a confirmed connection. It does not mean the bot stopped tracking.
 
-## Manage points <sub>ポイント</sub>
+## 桜 · Manage points
 
 ![Manage points](manage-points.png)
 
 Add or remove points from the dashboard, or use `/points add` and `/points remove` in Discord.
 
-## Verification rooms <sub>認証部屋</sub>
+## 桜 · Verification rooms
 
 ![Verification rooms](verification-rooms.png)
 
 Set a lobby channel and a staff role by ID. Members get a private room when they join the lobby. Empty rooms are cleaned up automatically.
 
-## Add Night Bloom <sub>依頼</sub>
+## 桜 · Add Night Bloom
 
 Night Bloom is set up by hand for each server.
 
