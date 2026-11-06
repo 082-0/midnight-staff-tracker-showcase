@@ -8,7 +8,10 @@
 
 Night Bloom is a Discord staff bot with a private control room. It tracks your team, awards points, and runs verification rooms. First built for Midnight Community.
 
-**Night Bloom is not public.** To add it to your server, message **`meantforlove`** on Discord.
+**ɴɪɢʜᴛ・ʙʟᴏᴏᴍ is not public.** To add it to your server, message **`meantforlove.`** on Discord.
+
+> ✦ 桜 ɴɪɢʜᴛ・ʙʟᴏᴏᴍ
+> <ins>ʏᴏᴜʀ ꜱᴛᴀꜰꜰ, ᴄᴏᴜɴᴛᴇᴅ ꜰᴀɪʀʟʏ.</ins>
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
@@ -57,7 +60,10 @@ Set a lobby channel and a staff role by ID. Members get a private room when they
 
 ## Add Night Bloom <sub>依頼</sub>
 
-Night Bloom is set up by hand for each server. Message **`meantforlove`** on Discord.
+Night Bloom is set up by hand for each server.
+
+- Discord: **`meantforlove.`**
+- Servers: [discord.gg/xKJvuKThf](https://discord.gg/xKJvuKThf) · [discord.gg/aftermd](https://discord.gg/aftermd)
 
 <sub>This repository holds documentation and screenshots only. The bot source, credentials and production records are private. Screenshots use demo data.</sub>
 
