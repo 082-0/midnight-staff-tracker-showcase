@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="assets/night/banner.svg" alt="Night Bloom 夜咲き — staff tracker, points and control room. Night sky with a cold moon and an ink-black cherry branch." width="100%" />
+<img src="assets/night/banner.svg" alt="Ledger 出納帳 — staff tracker, points and control room. Night sky with a cold moon and an ink-black cherry branch." width="100%" />
 
 </div>
 
 <br />
 
-Night Bloom is a Discord staff bot with a private control room. It tracks your team, awards points, and runs verification rooms. First built for Midnight Community.
+**ʟᴇᴅɢᴇʀ** (formerly Night Bloom) is a Discord staff bot with a private control room. It tracks your team, awards points, and runs verification rooms. First built for Midnight Community.
 
-**ɴɪɢʜᴛ・ʙʟᴏᴏᴍ is not public.** To add it to your server, message **`meantforlove.`** on Discord.
+**ʟᴇᴅɢᴇʀ is not public.** To add it to your server, message **`meantforlove.`** on Discord.
 
-> ✦ 桜 ɴɪɢʜᴛ・ʙʟᴏᴏᴍ
-> <ins>ʏᴏᴜʀ ꜱᴛᴀꜰꜰ, ᴄᴏᴜɴᴛᴇᴅ ꜰᴀɪʀʟʏ.</ins>
+> ✦ 桜 ʟᴇᴅɢᴇʀ
+> <ins>ᴇᴠᴇʀʏ ᴘᴏɪɴᴛ, ᴡʀɪᴛᴛᴇɴ ᴅᴏᴡɴ.</ins>
 
 <img src="assets/night/divider.svg" alt="" width="100%" />
 
@@ -58,9 +58,13 @@ Add or remove points from the dashboard, or use `/points add` and `/points remov
 
 Set a lobby channel and a staff role by ID. Members get a private room when they join the lobby. Empty rooms are cleaned up automatically.
 
-## 桜 · Add Night Bloom
+## 桜・Updates
 
-Night Bloom is set up by hand for each server.
+- **2026-11-07** · Renamed from Night Bloom to ʟᴇᴅɢᴇʀ. Same bot, same features.
+
+## 桜 · Add Ledger
+
+Ledger is set up by hand for each server.
 
 - Discord: **`meantforlove.`**
 - Servers: [discord.gg/xKJvuKThf](https://discord.gg/xKJvuKThf) · [discord.gg/aftermd](https://discord.gg/aftermd)

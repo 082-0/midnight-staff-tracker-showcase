@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="bt bd">
-<title id="bt">Night Bloom 夜咲き</title><desc id="bd">STAFF TRACKER  ·  POINTS  ·  CONTROL ROOM Night sky with a cold moon and an ink-black cherry branch.</desc>
+<title id="bt">Ledger 出納帳</title><desc id="bd">STAFF TRACKER  ·  POINTS  ·  CONTROL ROOM Night sky with a cold moon and an ink-black cherry branch.</desc>
 <defs>
   <linearGradient id="bsky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#040307"/><stop offset=".6" stop-color="#0d0817"/><stop offset="1" stop-color="#1a102e"/></linearGradient>
   <radialGradient id="bmoonGlow"><stop offset="0" stop-color="#cbbcf0" stop-opacity=".22"/><stop offset="1" stop-color="#cbbcf0" stop-opacity="0"/></radialGradient>
@@ -28,11 +28,11 @@
 <g font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif">
   <path d="M46 52 H70" stroke="#7b5cc4" stroke-width="1.5"/>
   <text x="80" y="56" fill="#9d92b3" font-size="11.5" letter-spacing="3.2">DISCORD BOT  /  ボット</text>
-  <text x="42" y="167.44" fill="#ece6f4" font-size="92" font-weight="800" letter-spacing="-3.68">Night Bloom</text>
-  <g transform="translate(940 102) rotate(-3)"><rect width="40" height="40" rx="4" fill="#a3122f"/><rect x="3.5999999999999996" y="3.5999999999999996" width="32.8" height="32.8" rx="2.4" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1.2"/><text x="20" y="28.799999999999997" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="24.8" fill="#f8eef0">咲</text></g>
+  <text x="42" y="167.44" fill="#ece6f4" font-size="92" font-weight="800" letter-spacing="-3.68">Ledger</text>
+  <g transform="translate(940 102) rotate(-3)"><rect width="40" height="40" rx="4" fill="#a3122f"/><rect x="3.5999999999999996" y="3.5999999999999996" width="32.8" height="32.8" rx="2.4" fill="none" stroke="#f3dfe3" stroke-opacity=".55" stroke-width="1.2"/><text x="20" y="28.799999999999997" text-anchor="middle" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-weight="700" font-size="24.8" fill="#f8eef0">帳</text></g>
   <text x="47" y="209.44" fill="#b3a0d8" font-size="13" letter-spacing="3.4">STAFF TRACKER  ·  POINTS  ·  CONTROL ROOM</text>
-  <text x="47" y="241.44" fill="#9d92b3" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="17" letter-spacing="2">静かに数える。<tspan fill="#655c7a" font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif" font-size="12" letter-spacing="2.4">   YOZAKI · NIGHT-BLOOMING</tspan></text>
+  <text x="47" y="241.44" fill="#9d92b3" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="17" letter-spacing="2">静かに数える。<tspan fill="#655c7a" font-family="'Segoe UI','gg sans','Noto Sans',Arial,sans-serif" font-size="12" letter-spacing="2.4">   CHŌ · THE LEDGER</tspan></text>
 </g>
 <path d="M934 160 V292" stroke="#271d3a"/>
-<text x="960" y="190" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="34" fill="#ece6f4" text-anchor="middle">夜</text><text x="960" y="228.08" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="34" fill="#ece6f4" text-anchor="middle">咲</text><text x="960" y="266.16" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="34" fill="#ece6f4" text-anchor="middle">き</text>
+<text x="960" y="190" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="34" fill="#ece6f4" text-anchor="middle">出</text><text x="960" y="228.08" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="34" fill="#ece6f4" text-anchor="middle">納</text><text x="960" y="266.16" font-family="'Noto Serif JP','Yu Mincho','Hiragino Mincho ProN','MS Mincho',serif" font-size="34" fill="#ece6f4" text-anchor="middle">帳</text>
 </svg>
